@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.env.*
+*.log
+*.zip
+
+# Local Blockyard settings, learned mod rules, and server registry
+config.json
+servers.json
+client-only-mods.json
+client-only-list-cache.json
+
+# Minecraft server data and downloaded runtime files
+Minecraft Servers/
+server-data/
+blockyard-data/
